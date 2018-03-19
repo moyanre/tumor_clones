@@ -1,2 +1,0 @@
-# smcgenedeconv
-this is life
